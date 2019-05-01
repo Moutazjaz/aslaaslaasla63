@@ -1,6 +1,6 @@
-token= NTcyMTM4ODQzNjQyMjY1NjAw.XMehrQ.lLAzjEd2Vft8-yTbgk-F5BrhxkE
-owner= 499946871507386368
-prefix= s
+token=NTcyNTkxNDE2NjUyMzMzMDY0.XMmsPQ.5YeGkL2-gGkNMzvlSADr7nNfC78
+owner= 525888660437205012
+prefix= H
 game= 
 stayinchannel=true 
 songinstatus=false 
