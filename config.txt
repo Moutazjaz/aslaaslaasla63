@@ -1,5 +1,5 @@
 token=NTcyNTkxNDE2NjUyMzMzMDY0.XMmsPQ.5YeGkL2-gGkNMzvlSADr7nNfC78
-owner= 525888660437205012
+owner= 575385654041772042
 prefix= H
 game= 
 stayinchannel=true 
